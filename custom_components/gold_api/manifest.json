@@ -6,5 +6,5 @@
   "issue_tracker": "https://github.com/kjell5317/component-gold_api/issues",
   "version": "0.0.0",
   "config_flow": true,
-  "codeowners": ["@ludeeus"]
+  "codeowners": ["@kjell5317"]
 }
