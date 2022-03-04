@@ -1,4 +1,4 @@
-"""Constants for integration_blueprint."""
+"""Constants for gold_api."""
 # Base component constants
 NAME = "GoldAPI"
 DOMAIN = "gold_api"
